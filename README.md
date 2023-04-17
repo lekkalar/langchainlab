@@ -1,1 +1,1 @@
-# langchainlab
+Play area for langchain learning
